@@ -1,9 +1,4 @@
 {
   "language": "php",
-  "stages": [
-    "static",
-    "unit",
-    "integration",
-    "deploy"
-  ]
+  "stages": []
 }
